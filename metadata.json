@@ -1,0 +1,10 @@
+{
+  "name": "k-Agri-Trade",
+  "description": "Comprehensive import information solution for agricultural, marine, and livestock products. AI-driven HS code classification, automated quarantine roadmap, and landed cost calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI-powered feasibility diagnosis",
+    "Real-time import risk alerts",
+    "Interactive landing cost calculator"
+  ]
+}
